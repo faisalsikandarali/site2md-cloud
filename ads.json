@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ad_1",
+    "badge": "SPONSORED",
+    "icon": "🚀",
+    "title": "Build Web Apps Fast with Antigravity",
+    "description": "Full-stack autonomous coding agents for modern developers.",
+    "ctaText": "Contact",
+    "ctaUrl": "https://wa.me/923298938213?text=Hello"
+  },
+  {
+    "id": "ad_2",
+    "badge": "PARTNER",
+    "icon": "⚡",
+    "title": "Custom Web & Mobile Apps by @bitlyttech",
+    "description": "Next.js, React, and Full-Stack development services.",
+    "ctaText": "WhatsApp",
+    "ctaUrl": "https://wa.me/923298938213?text=Hire%20Developer"
+  }
+]
